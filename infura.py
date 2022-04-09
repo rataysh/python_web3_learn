@@ -1,7 +1,6 @@
 from web3 import Web3
 import json
-from keys import https_infura_mainnet, https_infura_kovan, https_infura_goerli
-
+from old_projects.keys import https_infura_mainnet
 
 # infura_url = https_infura_kovan
 # infura_url = https_infura_goerli
